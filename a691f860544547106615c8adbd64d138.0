@@ -1,0 +1,23 @@
+https://global-chat.opera-mini.net/domains.json?v=4
+GET
+0
+HTTP/1.1 200 
+12
+date: Wed, 01 Mar 2023 19:49:38 GMT
+last-modified: Wed, 01 Mar 2023 19:49:38 GMT
+-page-id: 1ldnx3a8rnvocf2ftwut3wari3tbaqv9djatzibcumvbof8gpc
+x-android-selected-protocol: http/1.1
+x-android-response-source: NETWORK 200
+x-android-received-millis: 1677700178691
+x-android-sent-millis: 1677700178238
+connection: close
+content-type: application/json
+x-opera-textual: 1
+OkHttp-Sent-Millis: 1677700177741
+OkHttp-Received-Millis: 1677700178696
+
+TLS_RSA_WITH_AES_128_CBC_SHA
+1
+MIICWDCCAcGgAwIBAgIhAP2uT8tBjj8wnPRBi0vFBeJpKbSBHp1ST+UqOyJ73O3kMA0GCSqGSIb3DQEBCwUAMHExCzAJBgNVBAYTAk5PMQ0wCwYDVQQIDARPc2xvMQ0wCwYDVQQHDARPc2xvMRswGQYDVQQKDBJPcGVyYSBTb2Z0d2FyZSBBU0ExFDASBgNVBAsMC09wZXJhIFR1cmJvMREwDwYDVQQDDAhMb2NhbCBDQTAeFw0yMzAyMjgwMDAwMDBaFw0yMzAzMTUwMDAwMDBaMCUxIzAhBgNVBAMMGmdsb2JhbC1jaGF0Lm9wZXJhLW1pbmkubmV0MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDit6qAJj/g0dys1PSlB9o18r9BUiUu6FTsvyec8e0Kgo8IeJ/LKHnpl4pF4iNcWIvlID9T5fqgpYvqEyiQP6GZo8sOvBfsnuAGNEZvgJujyYeIycU/jenifB2PmDmPyuDtRh9msv204NkcLiLOODrTWOHEtFZwhgPMLCrnVYlk5QIDAQABoywwKjAoBgNVHREBAf8EHjAcghpnbG9iYWwtY2hhdC5vcGVyYS1taW5pLm5ldDANBgkqhkiG9w0BAQsFAAOBgQDeZP/ZCI1y0RzP/Xi8IaUOeoZJukuhAf7LB43zpfEN2Yns02r2TtpFqOhk2866jn9fEBpfaN1SOldDpo+xJdbu7gppca6LlmTgSp2pxjp/3S7E7gngbcXMk3g1Kk97eXDz2oP+cnABY0ymZZEGSwRXP68YdkXlZWLnYPm/Yvpw5w==
+0
+TLSv1.2
